@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 20 13:52:23 2024
-
-@author: maxim
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Thu Feb 15 20:05:38 2024
 
 @author: Maxime
