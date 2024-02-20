@@ -91,7 +91,7 @@ def meilleur_heterogramme(s, r_words):
             
         new_best_s = meilleur_heterogramme(new_s, new_r_words)
 
-        #si trouve une phrase plus longue au aussi longue que la meilleur phrase qu'on a 
+        #si trouve une phrase plus longue ou aussi longue que la meilleure phrase qu'on a 
         if nb_let(new_best_s) >= nb_let(best_s):
             best_s = new_best_s
             if s=="":
