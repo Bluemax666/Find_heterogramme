@@ -34,7 +34,7 @@ def norm(w):
 def nb_let(s):
     return len(s.replace(" ", ""))
 
-#dictionnaire telecharge sur (https://www.3zsoftware.com/fr/listes.php)
+#dictionnaire telecharge sur https://www.3zsoftware.com/fr/listes.php
 dictionnaire_path = "liste_francais.txt"
 
 with open(dictionnaire_path, 'r') as f:
